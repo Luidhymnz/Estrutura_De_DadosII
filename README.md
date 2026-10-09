@@ -1,2 +1,17 @@
 # Estrutura_De_DadosII
-Repositório destinado para o desenvolvimento de atividades e copetências voltadas para a matéria de Estrutura de Dados II. 
+
+Repositório destinado às aulas, exercícios e atividades da disciplina de **Estrutura de Dados II**, do curso de Ciência da Computação.
+
+## 📂 Conteúdo
+
+* Códigos desenvolvidos em aula;
+* Exercícios práticos;
+* Atividades e projetos da disciplina.
+
+## 🎯 Objetivo
+
+Praticar e aprofundar os conhecimentos em estruturas de dados e algoritmos.
+
+---
+
+*Repositório acadêmico para fins de estudo e aprendizado.*
